@@ -1,1 +1,1 @@
-Rookie441 details card
+Display personal details on a card
