@@ -106,7 +106,7 @@ SizedBox(
 width: 10,
 ),
 Text(
-'customscriptudg@gmail.com',
+'example123@email.com',
 style: TextStyle(
 color: Colors.teal.shade900,
 fontSize: 20,
