@@ -4,6 +4,7 @@
 [quizzler](https://github.com/Rookie441/flutter/tree/main/Learning/quizzler) 📝  
 [rookie441_card](https://github.com/Rookie441/flutter/tree/main/Learning/rookie441_card) 💳  
 [xylophone](https://github.com/Rookie441/flutter/tree/main/Learning/xylophone) 🎼  
+[bmi_calculator](https://github.com/Rookie441/flutter/tree/main/Learning/bmi_calculator) 🍗
 
 > Flutter: *2.5.2*  
 Dart: *2.14.3*  
