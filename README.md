@@ -1,9 +1,9 @@
 ## Mobile App development with flutter
 > Apps:  
-[dicee](https://github.com/Rookie441/flutter/tree/main/dicee) 🎲  
-[quizzler](https://github.com/Rookie441/flutter/tree/main/quizzler) 📝  
-[rookie441_card](https://github.com/Rookie441/flutter/tree/main/rookie441_card) 💳  
-[xylophone](https://github.com/Rookie441/flutter/tree/main/xylophone) 🎼  
+[dicee](https://github.com/Rookie441/flutter/tree/main/Learning/dicee) 🎲  
+[quizzler](https://github.com/Rookie441/flutter/tree/main/Learning/quizzler) 📝  
+[rookie441_card](https://github.com/Rookie441/flutter/tree/main/Learning/rookie441_card) 💳  
+[xylophone](https://github.com/Rookie441/flutter/tree/main/Learning/xylophone) 🎼  
 
 > Flutter: *2.5.2*  
 Dart: *2.14.3*  
