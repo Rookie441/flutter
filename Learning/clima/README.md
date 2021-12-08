@@ -1,2 +1,2 @@
-## Weather App using [OpenWeatherMap API](https://openweathermap.org/api)  
-![Alt Text](https://user-images.githubusercontent.com/68913871/145236570-5ca47006-aee6-4ca6-8177-5befd9ddf3f8.gif)
+## Get weather with query using [OpenWeatherMap API](https://openweathermap.org/api)  
+![Alt Text](https://user-images.githubusercontent.com/68913871/145237032-78e1a86b-9a68-4e1e-97ae-f01d35163e38.gif)
