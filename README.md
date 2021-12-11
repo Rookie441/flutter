@@ -6,6 +6,7 @@
 [quizzler](https://github.com/Rookie441/flutter/tree/main/Learning/quizzler) 📝  
 [bmi_calculator](https://github.com/Rookie441/flutter/tree/main/Learning/bmi_calculator) 🍗  
 [clima](https://github.com/Rookie441/flutter/tree/main/Learning/clima) ☁️  
+[flash_chat](https://github.com/Rookie441/flutter/tree/main/Learning/flash_chat) 💬  
 
 > Flutter: *2.5.2*  
 Dart: *2.14.3*  
